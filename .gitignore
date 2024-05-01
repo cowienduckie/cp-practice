@@ -38,3 +38,13 @@
 
 # VSCode
 .vscode/
+
+# Jetbrains
+.idea/
+
+# .NET
+bin/
+obj/
+
+# MacOS
+.DS_Store
